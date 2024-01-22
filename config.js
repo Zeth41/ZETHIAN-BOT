@@ -13,7 +13,6 @@ global.owner = [
   ['51919730753', '👑 Mystic - Creador 👑', true],
   ['50247342200', '💫 Mystic - Collaborator 1 💫', true],
 
-
 global.suittag = ['51919730753'];
 global.prems = ['51919730753'];
 
